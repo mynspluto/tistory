@@ -1,0 +1,25 @@
+{
+  "name": "tistory",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000i\u0000s\u0000t\u0000o\u0000r\u0000y\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mynspluto/tistory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mynspluto/tistory/issues"
+  },
+  "homepage": "https://github.com/mynspluto/tistory#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
