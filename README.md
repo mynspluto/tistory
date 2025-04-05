@@ -11,4 +11,4 @@
 
 ## 📕 Latest Blog Posts
 
-<ul><li><a href='https://mynspluto.tistory.com/7' target='_blank'>인덱스 검색은 왜 더 빠른가?</a></li><li><a href='https://mynspluto.tistory.com/6' target='_blank'>MongoDB watch를 이용한 실시간 채팅</a></li></ul>
+<ul><li><a href='https://mynspluto.tistory.com/9' target='_blank'>MYSQL 트랜잭션 어떻게 구현되어 있는가</a></li><li><a href='https://mynspluto.tistory.com/8' target='_blank'>Spring  요청부터 응답까지 전체 흐름 정리</a></li><li><a href='https://mynspluto.tistory.com/7' target='_blank'>인덱스 검색은 왜 더 빠른가?</a></li><li><a href='https://mynspluto.tistory.com/6' target='_blank'>MongoDB watch를 이용한 실시간 채팅</a></li></ul>
